@@ -19,9 +19,10 @@ Climate – A dataset of Storm Data in the US over the last 10 years will be pro
 Health – A mortality rate by State from 1980 to 2020 dataset will be provided. Data points can include total mortality and/or average mortality by year and State.
 
 Education – A dataset of the number of public and private schools by State will be provided. Data points include total school by State and percentage of Private Schools available to the Total Schools by State. Also, enrollment and student-to-teacher ratio can be a factor.
-![IMG-20230611-WA0012](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR40![IMG-20230611-WA0013](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/c5047917-0cbb-4b5d-b543-0f65ed99aae4)![IMG-20230611-WA0014](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/89004ef9-da5c-4752-bbd7-a251686e5848)
+![IMG-20230611-WA0012](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/abb32363-e458-4acb-a282-c2bfd6b81ed1)
+![IMG-20230611-WA0013](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/d079fb61-40d7-46e3-8095-83c6e036977c)
+![IMG-20230611-WA0014](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/fa5dbc5b-db0f-4259-8b4e-c104a4c775c2)
 
-4/assets/105337087/b72f920d-69eb-419a-848e-2aae8b5a591f)
 ![IMG-20230611-WA0016](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/8e932231-1a74-4886-b65b-1b2f1d9c2c4c)
 ![IMG-20230611-WA0017](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/cb98ea0e-c7cc-4321-a351-c31d5de6e728)
 
