@@ -29,3 +29,9 @@ Education – A dataset of the number of public and private schools by State wil
 ![IMG-20230611-WA0018](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/cdcb8935-21fa-4c87-acb0-63d0129b3748)
 
 ![IMG-20230611-WA0019](https://github.com/adarshu21/FIND-YOUR-PARADISE-ERROR404/assets/105337087/f2ddf5ac-329d-4cc0-a069-ca331f6307f4)
+K means Clustering
+Google Translator
+Two new Datasets
+Cost of living
+Job/Employment Openings
+Easily Interfacable UI
